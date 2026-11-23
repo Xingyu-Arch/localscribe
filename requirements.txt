@@ -1,0 +1,6 @@
+faster-whisper>=1.1.0
+imageio-ffmpeg>=0.5.0
+numpy
+
+# 有 NVIDIA 显卡、想用 GPU 加速的 Windows 用户，额外安装：
+# pip install nvidia-cublas-cu12 nvidia-cudnn-cu12
