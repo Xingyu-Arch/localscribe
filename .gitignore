@@ -5,4 +5,6 @@ venv/
 env/
 out/
 test-output/
+.tmp/
+dist/
 *.log
